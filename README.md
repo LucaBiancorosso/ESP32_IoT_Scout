@@ -1,3 +1,11 @@
+![Status](https://img.shields.io/badge/status-active-success)
+![Platform](https://img.shields.io/badge/platform-ESP32-blue)
+![Language](https://img.shields.io/badge/language-C%2B%2B-informational)
+![Framework](https://img.shields.io/badge/framework-Arduino%20%7C%20ESP--IDF-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Security](https://img.shields.io/badge/focus-WiFi%20Security-red)
+![Hardware](https://img.shields.io/badge/hardware-embedded-lightgrey)
+
 # ESP IoT Scout 
 
 **ESP32-based IoT Wi-Fi Reconnaissance & Risk Scoring Tool**  
